@@ -1,4 +1,4 @@
-# Python Crawling McDonalds Location Data Project
+# Python Crawling McDonald's Location Data Project
 
 A simple Python script that uses Selenium to search McDonald’s U.S. restaurant locator by city/state and scrape all nearby locations.
 
